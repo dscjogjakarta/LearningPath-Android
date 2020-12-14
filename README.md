@@ -13,6 +13,7 @@ Week #1:<br>
 6. <a href='https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-2'>Display a scrollable list</a><br>
 
 Week #2:<br>
+<strong>Workhop Script: https://github.com/Waffle000/Dsc_Android_intermediate</strong>
 1. <a href='https://play.kotlinlang.org/koans/overview'>(Pre-Start) Kotlin Koans</a><br>
 2. <a href='https://developers.android.com/courses/pathways/kotlin-fundamentals-one'>Build your first app</a><br>
 3. <a href='https://developers.android.com/courses/pathways/kotlin-fundamentals-two'>Build an interactive app</a><br>
